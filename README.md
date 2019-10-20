@@ -8,8 +8,8 @@ MacOS Mojave 10.14.6 compatibility
 
 Feature | Description
 ----------  | ----------
-Processor | Intel Core i5-3320M
-Graphics  | Intel HD Graphics 4000
+Processor | Intel Core i7-4510U
+Graphics  | Intel HD Graphics 4400
 Graphics  | <s>NVIDIA GeForce GTX 850M (4 GB DDR3 dedicated)</s>
 Display | 1366x768
 Wireless  | <s>Intel® Dual Band Wireless-AC 3160</s>
